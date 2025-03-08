@@ -1,0 +1,28 @@
+h1 {
+  color: white;
+  text-align: center;
+}
+h2 {
+  color: beige;
+ 
+}
+p {
+  color: aliceblue;
+  font: roboto;
+}
+h3 {
+  color: blueviolet;
+ 
+}
+li {
+  color: brown;
+}
+body {
+  background-color: #222211;
+}
+.center{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
